@@ -1,2 +1,9 @@
 HTML
 CSS
+git status
+git commit
+git branch
+cd 
+Unix
+Bash
+Git
